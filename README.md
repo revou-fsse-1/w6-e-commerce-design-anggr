@@ -1,7 +1,7 @@
 # w6-e-commerce-design-anggr
 
 
-![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677845665/Week%206/HLD_ggdfd2.png)
+![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677846141/Week%206/HLD_jv9m5f.png)
 
 ```
 function createOrder(productList) {
