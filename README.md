@@ -8,6 +8,14 @@ For High Level Design, i went with the MVC architecture. The Model represents th
 ## Activity Diagram
 ![Activity Diagram](https://res.cloudinary.com/djudfrj8s/image/upload/v1677850336/Week%206/Activity-diagram_fg05ja.png)
 
+ I use activity diagram to show the sequence of steps that take place when the system receives a request to display the details of a product based on its ID. As a new programmer, Using an activity diagram can help me to visualize the flow of activities in the system and to understand the steps involved in achieving a particular goal.
+
+
+## Sequence Diagram
+![Sequence Diagram](https://res.cloudinary.com/djudfrj8s/image/upload/v1677854789/Week%206/Sequence-Diagram_hyb2ln.png)
+
+While an activity diagram provides an overview of the steps involved in a process, a sequence diagram provides a more detailed view of the interactions between objects and the order in which they occur.
+A sequence diagram is a useful tool for understanding the ordering of the interactions between different objects in a system or process.
 ### Pseudocode
 
 
