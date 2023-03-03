@@ -2,9 +2,9 @@
 
 
 ## High Level Design
-![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677846141/Week%206/HLD_jv9m5f.png)
+![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677861585/Week%206/HLD_lle0fn.png)
 
-For High Level Design, i use MVC architecture. The Model represents the data and the business logic, the View represents the user interface, and the Controller handles the user input and updates the Model and the View accordingly. By separating the concerns into different components, the MVC architecture helps to make the code more organized, maintainable, and scalable.
+For High Level Design, I use MVC architecture. The Model (M) represents the data and the business logic, the View (V) represents the user interface, and the Controller (C) handles the user input and updates the Model and the View accordingly. By separating the concerns into different components, the MVC architecture helps to make the code more organized, maintainable, and scalable.
 
 ### Activity Diagram
 ![Activity Diagram](https://res.cloudinary.com/djudfrj8s/image/upload/v1677850336/Week%206/Activity-diagram_fg05ja.png)
