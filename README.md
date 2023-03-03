@@ -1,7 +1,13 @@
 # w6-e-commerce-design-anggr
 
-
+## High Level Design
 ![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677846141/Week%206/HLD_jv9m5f.png)
+## Activity Diagram
+![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677849828/Week%206/Activity-diagram_tspzru.png)
+
+
+### Pseudocode
+
 
 ```
 function createOrder(productList) {
@@ -26,7 +32,4 @@ function createOrder(productList) {
   database.createOrder(newOrder);
   return newOrder;
 }
-
-
-
 ```
