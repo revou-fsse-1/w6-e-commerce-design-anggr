@@ -2,9 +2,11 @@
 
 ## High Level Design
 ![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677846141/Week%206/HLD_jv9m5f.png)
-## Activity Diagram
-![HLD](https://res.cloudinary.com/djudfrj8s/image/upload/v1677849828/Week%206/Activity-diagram_tspzru.png)
 
+For High Level Design, i went with the MVC architecture. The Model represents the data and the business logic, the View represents the user interface, and the Controller handles the user input and updates the Model and the View accordingly. By separating the concerns into different components, the MVC architecture helps to make the code more organized, maintainable, and scalable.
+
+## Activity Diagram
+![Activity Diagram](https://res.cloudinary.com/djudfrj8s/image/upload/v1677850336/Week%206/Activity-diagram_fg05ja.png)
 
 ### Pseudocode
 
